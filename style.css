@@ -23,12 +23,11 @@ body{
 header{
     background-color: #FFFFFF;
     width: 350px;
-    height: 330px;
+    height: 310px;
     position: absolute;
     top: 20%;
     left: 55%;
-    border-color: black;
-    border-width: 10px;
+   
     
 }
 .box input{
